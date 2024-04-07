@@ -42,6 +42,30 @@ sections:
       title: 
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  - block: markdown
+    id: teaching
+    content:
+      title: Teaching
+      subtitle: Courses, seminars, and supervision
+      text: |-
+        | Class | Institution | Term |
+        | ----- | ----------- | ---- |
+        | [Energy system modeling](../teaching/energy-system-modeling) | OTH Regensburg | SoSe24 |
+
+        Open Thesis Projects
+        ======
+        - Master/Bachelor: Analysis and development of concrete financing options for hydrogen projects in countries with both high potential and high risk
+        - Master/Bachelor: Financing of specific hydrogen supply chains in the wake of German-African Hydrogen Partnerships
+
+        Ongoing Thesis Projects
+        ======
+        - Bachelor: Towards a Truly “Just Transition” – Ensuring Mutual Benefits in the Wake of German-African Hydrogen Partnerships, OTH, 2024
+        - Bachelor: Development of specific hydrogen supply chains in the Wake of German-African Hydrogen Partnerships, OTH, 2024
+        - Bachelor: Analysis and prerequisites for establishing sustainable hydrogen partnerships between Germany and african countries, OTH, 2024
+        - Bachelor: Technical, economic and regulatory design of potential concrete value chains of African countries with the EU, OTH, 2024
+
+        Past Thesis Projects
+        ======
   # - block: skills
   #   content:
   #     title: Skills
