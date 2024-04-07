@@ -38,10 +38,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MSc in Computer Science
+    - course: M.Sc. in Computer Science
       institution: Ostbayerische Technische Hochschule Regensburg
       year: 2023
-    - course: BSc in Computer Science
+    - course: B.Sc. in Computer Science
       institution: Ostbayerische Technische Hochschule Regensburg
       year: 2021
 
