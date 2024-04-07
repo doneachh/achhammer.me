@@ -133,3 +133,4 @@ My work focuses on the decarbonization of energy systems through sector coupling
 Also i am co-developing on open-source software:
 - [PyPSA-Earth](https://github.com/pypsa-meets-earth/pypsa-earth) is a flexible python-based open optimisation model to study energy system futures around the World
 - [PyPSA-Earth-Sec](https://github.com/pypsa-meets-earth/pypsa-earth-sec) is the sector-coupling extension of PyPSA-Earth
+{style="text-align: justify;"}
