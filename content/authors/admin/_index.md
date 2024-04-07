@@ -3,7 +3,7 @@
 title: Anton Achhammer
 
 # Name pronunciation (optional)
-name_pronunciation: Anton Achhammer
+# name_pronunciation: Anton Achhammer
 
 # Full name (for SEO)
 first_name: Anton
