@@ -114,8 +114,8 @@ social:
   - icon: youtube
     icon_pack: fab
     link: https://www.youtube.com/@AntonAchhammer
-  - icon: fa-university
-    icon_pack: fas
+  - icon: archive
+    icon_pack: ai
     link: https://fenes.oth-regensburg.de/
 
 # Highlight the author in author lists? (true/false)
