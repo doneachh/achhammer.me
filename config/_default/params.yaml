@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
+    description: 'Energy system modeller with a focus on the decarbonization of energy systems through sector coupling and green hydrogen production.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/doneachh/achhammer.me'
     content_dir: content
     branch: main
   avatar:
