@@ -22,7 +22,7 @@ role: Energy System Modeller
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Ostbayerische Technische Hochschule Regensburg
-    url: https://fenes.oth-regensburg.de/
+    url: https://www.oth-regensburg.de/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -116,13 +116,13 @@ social:
     link: https://www.youtube.com/@AntonAchhammer
   - icon: archive
     icon_pack: ai
-    link: https://fenes.oth-regensburg.de/
+    link: https://www.fenes.net/
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am an energy system modeller at the [Research Center for Energy Networks and Energy Storage (FENES)](https://fenes.oth-regensburg.de/) at the [University of Applied Sciences Regensburg (OTH Regensburg)](https://www.oth-regensburg.de/).
+I am an energy system modeller at the [Research Center for Energy Networks and Energy Storage (FENES)](https://www.fenes.net/) at the [University of Applied Sciences Regensburg (OTH Regensburg)](https://www.oth-regensburg.de/).
 
 I studied Computer Science at the [University of Applied Sciences Regensburg (OTH Regensburg)](https://www.oth-regensburg.de/) and received my Bachelor's degree in 2021 and my Master's degree in 2023. 
 

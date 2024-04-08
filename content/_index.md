@@ -52,20 +52,17 @@ sections:
         | ----- | ----------- | ---- |
         | [Energy system modeling](https://elearning.oth-regensburg.de/course/view.php?id=5641) | OTH Regensburg | SoSe24 |
 
-        Open Thesis Projects
-        ======
+        ### Open Thesis Projects
         - Master/Bachelor: Analysis and development of concrete financing options for hydrogen projects in countries with both high potential and high risk
         - Master/Bachelor: Financing of specific hydrogen supply chains in the wake of German-African Hydrogen Partnerships
 
-        Ongoing Thesis Projects
-        ======
+        ### Ongoing Thesis Projects
         - Bachelor: Towards a Truly “Just Transition” – Ensuring Mutual Benefits in the Wake of German-African Hydrogen Partnerships, OTH, 2024
         - Bachelor: Development of specific hydrogen supply chains in the Wake of German-African Hydrogen Partnerships, OTH, 2024
         - Bachelor: Analysis and prerequisites for establishing sustainable hydrogen partnerships between Germany and African countries, OTH, 2024
         - Bachelor: Technical, economic and regulatory design of potential concrete value chains of African countries with the EU, OTH, 2024
 
-        Past Thesis Projects
-        ======
+        ### Past Thesis Projects
   # - block: skills
   #   content:
   #     title: Skills
