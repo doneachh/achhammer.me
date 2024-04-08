@@ -93,6 +93,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:anton.achhammer@oth-regensburg.de'
+  - icon: calendar
+    icon_pack: far
+    link: https://cal.com/antonachhammer
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/AntonAchhammer
@@ -114,10 +117,10 @@ social:
   - icon: youtube
     icon_pack: fab
     link: https://www.youtube.com/@AntonAchhammer
-  - icon: archive
-    icon_pack: ai
+  - icon: building-columns
+    icon_pack: fas
     link: https://www.fenes.net/
-
+  
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
