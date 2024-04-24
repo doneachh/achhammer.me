@@ -41,7 +41,7 @@ links:
     url: https://twitter.com/antonachhammer
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: 'content/slides/H2Global_meets_Africa_WasserstoffrundeRegensburg.pdf'
 url_video: ''
 
 # Markdown Slides (optional).
@@ -60,6 +60,6 @@ projects:
   - H2Global-meets-Africa
 ---
 
-<!-- {{% callout note %}}
+{{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}} -->
+{{% /callout %}}
