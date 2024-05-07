@@ -62,7 +62,7 @@ sections:
         - Bachelor: Analysis and prerequisites for establishing sustainable hydrogen partnerships between Germany and African countries, OTH, 2024
         - Bachelor: Technical, economic and regulatory design of potential concrete value chains of African countries with the EU, OTH, 2024
 
-        ### Past Thesis Projects
+      ### Past Thesis Projects
   # - block: skills
   #   content:
   #     title: Skills
