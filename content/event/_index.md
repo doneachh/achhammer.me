@@ -11,5 +11,5 @@ view: 2
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: 'Speaking inquiries: [**anton@achhammer.me**](mailto:anton@achhammer.me)'
-  image: 'media/Header.jpg'
+  image: 'static/media/Header.jpg'
 ---
