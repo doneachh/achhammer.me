@@ -1,6 +1,5 @@
 ---
 title: Recent & Upcoming Talks
-text: 'Speaking inquiries: [**anton@achhammer.me**](mailto:anton@achhammer.me)'
 cms_exclude: true
 
 # View.

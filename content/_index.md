@@ -240,6 +240,7 @@ sections:
     content:
       title: Talks
       subtitle: Recent & Upcoming Talks
+      text: 'Speaking inquiries: [**anton@achhammer.me**](mailto:anton@achhammer.me)'
       filters:
         folders:
           - event
