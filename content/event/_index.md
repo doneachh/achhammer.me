@@ -1,6 +1,7 @@
 ---
 title: Recent & Upcoming Talks
 cms_exclude: true
+text: 'Speaking inquiries: [**anton@achhammer.me**](mailto:anton@achhammer.me)'
 
 # View.
 #   1 = List
@@ -10,6 +11,6 @@ view: 2
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: 'Speaking inquiries: [**anton@achhammer.me**](mailto:anton@achhammer.me)'
-  image: 'static/media/Header.jpg'
+  caption: ''
+  image: ''
 ---
