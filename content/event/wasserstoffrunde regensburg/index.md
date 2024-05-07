@@ -35,10 +35,10 @@ image:
   focal_point: smart
 
 links:
-  - icon: twitter
+  - icon: linkedin
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/antonachhammer
+    url: https://www.linkedin.com/in/anton-achhammer
 url_code: ''
 url_pdf: ''
 url_slides: 'uploads/H2Global_meets_Africa_WasserstoffrundeRegensburg.pdf'
