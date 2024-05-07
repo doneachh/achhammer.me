@@ -17,8 +17,8 @@ abstract: 'Um die nationalen und internationalen Klimaschutzziele zu erreichen, 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-05-27T15:00:00Z'
-date_end: '2024-05-27T18:00:00Z'
+date: '2024-06-10T19:30:00Z'
+date_end: '2024-06-10T21:30:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
