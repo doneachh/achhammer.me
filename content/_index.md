@@ -239,7 +239,7 @@ sections:
     id: talks
     content:
       title: Talks
-      subtitle: 'Recent & Upcoming Talks \n \n Speaking inquiries: [**anton@achhammer.me**](mailto:anton@achhammer.me)'
+      subtitle: 'Recent & Upcoming Talks - Speaking inquiries: [**anton@achhammer.me**](mailto:anton@achhammer.me)'
       filters:
         folders:
           - event
