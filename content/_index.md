@@ -54,12 +54,12 @@ sections:
 
         ### Open Thesis Projects
         - Master/Bachelor: Analysis and development of concrete financing options for hydrogen projects in countries with both high potential and high risk
-        - Master/Bachelor: Financing of specific hydrogen supply chains in the wake of German-African Hydrogen Partnerships
+        - Master/Bachelor: Analysis and prerequisites for establishing sustainable hydrogen partnerships between Germany and African countries, OTH, 2024
 
         ### Ongoing Thesis Projects
         - Bachelor: Towards a Truly “Just Transition” – Ensuring Mutual Benefits in the Wake of German-African Hydrogen Partnerships, OTH, 2024
-        - Bachelor: Development of specific hydrogen supply chains in the Wake of German-African Hydrogen Partnerships, OTH, 2024
-        - Bachelor: Analysis and prerequisites for establishing sustainable hydrogen partnerships between Germany and African countries, OTH, 2024
+        - Bachelor: Exploring Green Hydrogen and the Just Transition of Jobs: A Case Study of South Africa’s Mpumalanga Region, OTH, 2024
+        - Bachelor: Development and financing of specific hydrogen supply chains in the Wake of German-African Hydrogen Partnerships, OTH, 2024
         - Bachelor: Technical, economic and regulatory design of potential concrete value chains of African countries with the EU, OTH, 2024
 
       ### Past Thesis Projects
