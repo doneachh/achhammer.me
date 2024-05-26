@@ -2,7 +2,7 @@
 title: Science Slam - Wie Moses den Wasserstoffhochlauf in Afrika beeinflusst
 
 event: Regensburger Nachhaltigkeitswoche
-event_url: https://regensburger-nachhaltigkeitswoche.org/?cn-reloaded=1
+event_url: https://regensburger-nachhaltigkeitswoche.org/?p=9968
 
 location: Degginger
 address:
@@ -13,7 +13,7 @@ address:
   country: Deutschland
 
 summary: Science Slam @ Regensburger Nachhaltigkeitswoche - Wie Moses den Wasserstoffhochlauf in Afrika beeinflusst
-abstract: 'Um die nationalen und internationalen Klimaschutzziele zu erreichen, die Energieversorgung Deutschlands und Europas zu diversifizieren sowie versorgungssicherer zu gestalten, ist ein Hochlauf der Wasserstoffwirtschaft national und international von entscheidender Bedeutung. Für diesen Hochlauf sind zwei Faktoren elementar: stabile internationale Partnerschaften und ein stabiler rechtlicher und finanzieller Rahmen. Mithilfe von Modellierung, Optimierung und Simulation von Energiesystemen sollen im Rahmen des Forschungsprojekts Szenarien für gerechte Partnerschaften ausgearbeitet werden.'
+abstract: 'Um die nationalen und internationalen Klimaschutzziele zu erreichen, die Energieversorgung Deutschlands und Europas zu diversifizieren sowie versorgungssicherer zu gestalten, ist ein Hochlauf der Wasserstoffwirtschaft national und international von entscheidender Bedeutung. Für diesen Hochlauf sind zwei Faktoren elementar: stabile internationale Partnerschaften und ein stabiler rechtlicher und finanzieller Rahmen. Mithilfe von Modellierung, Optimierung und Simulation von Energiesystemen (MOSES) sollen im Rahmen des Forschungsprojekts Szenarien für gerechte Partnerschaften ausgearbeitet werden.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
