@@ -58,12 +58,12 @@ sections:
         - Master/Bachelor: Technical, economic and regulatory design of potential concrete value chains of African countries with the EU
 
         ### Ongoing Thesis Projects
-        - Bachelor: Towards a Truly “Just Transition” – Ensuring Mutual Benefits in the Wake of German-African Hydrogen Partnerships, OTH, 2024
         - Bachelor: Exploring Green Hydrogen and the Just Transition of Jobs: A Case Study of South Africa’s Mpumalanga Region, OTH, 2024
         - Bachelor: Technical, economic and regulatory comparison of potential concrete value chains between Mauritania and the EU, OTH, 2024
         - Bachelor: Development and financing of specific hydrogen supply chains in the Wake of German-African Hydrogen Partnerships, OTH, 2024
-
-      ### Past Thesis Projects
+        
+        ### Past Thesis Projects
+        - Bachelor: Charting the Path: Assessing the Potential Opportunities and Pitfalls of Green Hydrogen Production and Export in Africa - An Energy Justice Assessment of the Hyphen Hydrogen Energy Project in Namibia, OTH, 2024
   # - block: skills
   #   content:
   #     title: Skills
