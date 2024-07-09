@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Generated using Adobe Firefly**](https://firefly.adobe.com/)'
+  caption: '📸 Stadt Regensburg, Effenhauser'
   focal_point: smart
 
 links:
