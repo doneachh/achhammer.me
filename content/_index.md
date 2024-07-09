@@ -241,6 +241,9 @@ sections:
     content:
       title: Talks
       subtitle: 'Recent & Upcoming Talks - Speaking inquiries: [**anton@achhammer.me**](mailto:anton@achhammer.me)'
+      image:
+        caption: '📸 Stadt Regensburg, Effenhauser'
+        filename: talks.jpg
       filters:
         folders:
           - event
