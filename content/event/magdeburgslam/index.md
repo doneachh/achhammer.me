@@ -1,5 +1,5 @@
 ---
-title: Science Slam - Wie Moses den Wasserstoffhochlauf in Afrika beeinflusst
+title: Magdeburg Science Slam - Wie Moses den Wasserstoffhochlauf in Afrika beeinflusst
 
 event: Science Slam Magdeburg Oktober 2024
 event_url: https://www.scienceslam.de/termine/science-slam-magdeburg-oktober-2024/

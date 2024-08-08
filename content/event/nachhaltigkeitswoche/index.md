@@ -1,5 +1,5 @@
 ---
-title: Science Slam - Wie Moses den Wasserstoffhochlauf in Afrika beeinflusst
+title: Regensburg Science Slam - Wie Moses den Wasserstoffhochlauf in Afrika beeinflusst
 
 event: Regensburger Nachhaltigkeitswoche
 event_url: https://regensburger-nachhaltigkeitswoche.org/?p=9968

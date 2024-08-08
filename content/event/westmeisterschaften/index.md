@@ -1,5 +1,5 @@
 ---
-title: Science Slam - Wie Moses den Wasserstoffhochlauf in Afrika beeinflusst
+title: Westdeutsche Meisterschaften Science Slam - Wie Moses den Wasserstoffhochlauf in Afrika beeinflusst
 
 event: Westdeutsche Meisterschaften im Science Slam 2024
 event_url: https://www.scienceslam.de/termine/westdeutsche-meisterschaften-im-science-slam-2024/
