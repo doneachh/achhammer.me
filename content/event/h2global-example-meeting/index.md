@@ -1,28 +1,28 @@
 ---
 title: H2Global meets Africa - Using PyPSA-Earth-Sec to model transformation paths of the energy systems in Europe and Africa
 
-event: Second PyPSA User Meeting
-event_url: https://forum.openmod.org/t/2nd-pypsa-user-meeting-on-may-27-2024-3-pm-6-pm-cest/4675/2
+event: Africa German Green Hydrogen Forum
+event_url: 
 
-location: Online
+location: University of Namibia
 address:
-  street:
-  city:
+  street: 340 Mandume Ndemufayo Ave
+  city: Windhoek
   region:
-  postcode:
-  country:
+  postcode: '13301'
+  country: Namibia
 
-summary: Lightning Talk @ PyPSA User Meeting - Project presentation H2Global meets Africa - Using PyPSA-Earth-Sec to model transformation paths of the energy systems in Europe and Africa
+summary: H2Global meets Africa - Exploring potentials and measures for an equitable market ramp-up in Africa
 abstract: 'In order to achieve national and international climate protection targets and to diversify Germanys and Europes energy supply and make it more secure, a ramp-up of the hydrogen economy both nationally and internationally is of crucial importance.The aim of the research project is to enable African partner countries to enter the global hydrogen economy. The transformation of the energy systems in Europe, Germany and Africa will be considered in an integrated manner through coupled energy system modeling in order to identify common transformation paths and potential. For this we are using the models PyPSA-Eur and PyPSA-Earth(-Sec). Initial modeling has already revealed major solar and wind potential across the entire continent of Africa. Further modeling is currently being carried out at country level with regard to synergies and conflicts between hydrogen exports and the national energy transition. Initial simulations for Morocco, Namibia and Kenya have already shown a correlation between high hydrogen exports and lower energy prices for the local population, while at the same time reducing emissions.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-05-27T15:00:00Z'
-date_end: '2024-05-27T18:00:00Z'
+date: '2024-09-01T08:00:00Z'
+#date_end: '2024-05-27T18:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-10-10T00:00:00Z'
+publishDate: '2025-08-08T00:00:00Z'
 
 authors: []
 tags: []
@@ -41,7 +41,7 @@ links:
     url: https://www.linkedin.com/in/anton-achhammer
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: 'uploads/Pitch_H2Global meets Africa_english.pdf'
 url_video: ''
 
 # Markdown Slides (optional).
