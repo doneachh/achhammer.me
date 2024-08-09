@@ -32,7 +32,6 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-![The project is sponsored by the Federal Ministry of Education and Research](images.png)
 The "H2Global meets Africa" research project is investigating **potentials and measures for a sustainable hydrogen and PtX ramp-up in Africa.** The project is being coordinated by the Ostbayerische Technische Hochschule (OTH) Regensburg and is being carried out under the leadership of Prof. Dr.-Ing. Michael Sterner at the Research Center for Energy Networks and Energy Storage (FENES). Other project partners are the Fraunhofer Institute for Energy Economics and Energy System Technology Kassel (IEE) and the H2Global Foundation. The research project will run for 36 months, **starting on 01.01.2023 and ending on 31.12.2025**. The funding amounts to approx. **4.2 million euros.**
 
 In order to achieve national and international **climate protection targets** and to **diversify** the energy supply in Germany and Europe and make it more **secure**, it is crucial to ramp up the **hydrogen economy** both nationally and internationally. Two things are important for this ramp-up: stable international **partnerships** and a stable legal and **financial framework.**
