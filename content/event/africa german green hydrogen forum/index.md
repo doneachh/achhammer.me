@@ -41,7 +41,7 @@ links:
     url: https://www.linkedin.com/in/anton-achhammer
 url_code: ''
 url_pdf: ''
-url_slides: 'uploads/Pitch_H2Global meets Africa_english.pdf'
+url_slides: 'uploads/Pitch_H2Global meets Africa_Forum.pdf'
 url_video: ''
 
 # Markdown Slides (optional).
