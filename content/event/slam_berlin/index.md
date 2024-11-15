@@ -1,5 +1,5 @@
 ---
-title: Belin Science Slam - Wie Moses den Wasserstoffhochlauf in Afrika beeinflusst
+title: Berlin Science Slam - Wie Moses den Wasserstoffhochlauf in Afrika beeinflusst
 
 event: Berlin Science Slam
 event_url: https://www.scienceslam.de/termine/science-slam-berlin-dezember-2024/
@@ -17,7 +17,7 @@ abstract: 'Um die nationalen und internationalen Klimaschutzziele zu erreichen, 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-10-26T19:30:00Z'
+date: '2024-12-11T19:30:00Z'
 # date_end: '2024-10-T21:30:00Z'
 all_day: false
 
