@@ -122,13 +122,13 @@ social:
     link: https://www.youtube.com/@AntonAchhammer
   - icon: building-columns
     icon_pack: fas
-    link: https://www.fenes.net/
+    link: https://fenes.oth-regensburg.de/
   
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am an energy system modeller at the [Research Center for Energy Networks and Energy Storage (FENES)](https://www.fenes.net/) at the [University of Applied Sciences Regensburg (OTH Regensburg)](https://www.oth-regensburg.de/).
+I am an energy system modeller at the [Research Center for Energy Networks and Energy Storage (FENES)](https://fenes.oth-regensburg.de/) at the [University of Applied Sciences Regensburg (OTH Regensburg)](https://www.oth-regensburg.de/).
 
 I studied Computer Science at the [University of Applied Sciences Regensburg (OTH Regensburg)](https://www.oth-regensburg.de/) and received my Bachelor's degree in 2021 and my Master's degree in 2023. 
 
