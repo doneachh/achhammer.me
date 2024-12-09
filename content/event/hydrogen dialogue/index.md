@@ -1,5 +1,5 @@
 ---
-title: Hydrogen Dialogue - Projektvorstellung Hydrogen Dialogue - Projektvorstellung H2Global meets Africa - Erforschung von Potenzialen und Maßnahmen für einen gerechten Markthochlauf in Afrika
+title: Hydrogen Dialogue - Projektvorstellung H2Global meets Africa - Erforschung von Potenzialen und Maßnahmen für einen gerechten Markthochlauf in Afrika
 
 event: Hydrogen Dialogue
 event_url: https://www.greentech-cluster.de/news-events/detail/h2r-wasserstoff-von-der-produktion-zur-praxis
