@@ -61,6 +61,7 @@ sections:
 
         ### Ongoing Thesis Projects
         - Master: Scaling up PV Production for domestic use, OTH, 2024
+        - Master: Green Hydrogen on the African Continent – Financial demand of large-scale projects, OTH, 2024
         
         ### Past Thesis Projects
         - Bachelor: Charting the Path: Assessing the Potential Opportunities and Pitfalls of Green Hydrogen Production and Export in Africa - An Energy Justice Assessment of the Hyphen Hydrogen Energy Project in Namibia, OTH, 2024
