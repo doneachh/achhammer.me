@@ -41,7 +41,7 @@ links:
     url: https://www.linkedin.com/in/anton-achhammer
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: 'uploads/GH2inAfrica.pdf'
 url_video: ''
 
 # Markdown Slides (optional).
