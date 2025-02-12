@@ -36,7 +36,7 @@ jobs:
         with:
           hugo-version: ${{ env.WC_HUGO_VERSION }}
           extended: true
-      - uses: actions/cache@v3
+      - uses: actions/cache@v4 # Updated from v3 to v4
         with:
           path: /tmp/hugo_cache_runner/
           key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.mod') }}
@@ -52,7 +52,7 @@ jobs:
           echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
           hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v2
         with:
           path: ./public
 
