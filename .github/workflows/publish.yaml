@@ -51,17 +51,17 @@ jobs:
           echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
           hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
 
-      - name: Check if Public Folder Exists
+      - name: Verify Public Folder Creation
         run: |
           if [ -d "./public" ]; then
-            echo "Public folder exists!"
+            echo "Public folder created!"
             ls -l ./public
           else
             echo "Error: Public folder is missing!"
             exit 1
           fi
 
-      - name: Upload artifact  # Upload website files
+      - name: Upload artifact  # Using upload-artifact@v4
         uses: actions/upload-artifact@v4
         with:
           name: github-pages
@@ -82,10 +82,10 @@ jobs:
           name: github-pages
           path: ./public
 
-      - name: Verify Artifact Content
+      - name: Verify Downloaded Artifact
         run: |
           if [ -d "./public" ]; then
-            echo "Downloaded artifact successfully!"
+            echo "Artifact downloaded successfully!"
             ls -l ./public
           else
             echo "Error: No artifact was found in ./public!"
