@@ -4,7 +4,7 @@ title: H2Global meets Africa - Erforschung von Potenzialen und Maßnahmen für e
 event: H2.R Wasserstoffrunde Regensburg – Wasserstoff von der Produktion zur Praxis
 event_url: https://www.greentech-cluster.de/news-events/detail/h2r-wasserstoff-von-der-produktion-zur-praxis
 
-location: Online
+location: H2.R Wasserstoffrunde Regensburg - Online
 address:
   street:
   city:
