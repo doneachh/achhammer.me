@@ -50,7 +50,7 @@ jobs:
         run: |
           echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
           hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
-
+          
       - name: Verify Public Folder Creation
         run: |
           if [ -d "./public" ]; then
@@ -76,16 +76,21 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
+      - name: Verify Artifact Download Path
+        run: |
+          echo "Verifying the download path and artifact existence."
+          ls -l ./public
+
       - name: Download artifact  # Ensure we retrieve the uploaded files
         uses: actions/download-artifact@v4
         with:
           name: github-pages
           path: ./public
 
-      - name: Verify Downloaded Artifact
+      - name: Verify Artifact Content after Download
         run: |
           if [ -d "./public" ]; then
-            echo "Artifact downloaded successfully!"
+            echo "Downloaded artifact successfully!"
             ls -l ./public
           else
             echo "Error: No artifact was found in ./public!"
