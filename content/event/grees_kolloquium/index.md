@@ -4,9 +4,9 @@ title: Grüne Wasserstoffimporte aus Afrika – der Schlüssel zur Energiewende?
 event: GREES Kolloquium Effiziente Energienutzung
 event_url: https://www.grees.uni-stuttgart.de/kolloquium/
 
-location: Online
+location: GREES Kolloquium - online
 address:
-  street:
+  street: 
   city:
   region:
   postcode:
