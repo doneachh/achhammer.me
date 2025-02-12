@@ -4,13 +4,10 @@ env:
   WC_HUGO_VERSION: '0.123.3'
 
 on:
-  # Trigger the workflow every time you push to the `main` branch
   push:
     branches: ["main"]
-  # Allows you to run this workflow manually from the Actions tab on GitHub.
   workflow_dispatch:
 
-# Provide permission to clone the repo and deploy it to GitHub Pages
 permissions:
   contents: read
   pages: write
@@ -21,7 +18,6 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  # Build website
   build:
     if: github.repository_owner != 'HugoBlox'
     runs-on: ubuntu-latest
@@ -29,35 +25,49 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          # Fetch history for Hugo's .GitInfo and .Lastmod
           fetch-depth: 0
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: ${{ env.WC_HUGO_VERSION }}
           extended: true
-      - uses: actions/cache@v4  # Updated from v3 to v4
+
+      - uses: actions/cache@v4
         with:
           path: /tmp/hugo_cache_runner/
           key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.mod') }}
           restore-keys: |
             ${{ runner.os }}-hugomod-
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
+
       - name: Build with Hugo
         env:
           HUGO_ENVIRONMENT: production
         run: |
           echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
           hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
-      - name: Upload artifact  # Using upload-artifact@v4 instead of upload-pages-artifact@v2
+
+      - name: Check if Public Folder Exists
+        run: |
+          if [ -d "./public" ]; then
+            echo "Public folder exists!"
+            ls -l ./public
+          else
+            echo "Error: Public folder is missing!"
+            exit 1
+          fi
+
+      - name: Upload artifact  # Upload website files
         uses: actions/upload-artifact@v4
         with:
           name: github-pages
           path: ./public
+          retention-days: 1
 
-  # Deploy website to GitHub Pages hosting
   deploy:
     if: github.repository_owner != 'HugoBlox'
     environment:
@@ -66,11 +76,22 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
-      - name: Download artifact  # Manually downloading the artifact
+      - name: Download artifact  # Ensure we retrieve the uploaded files
         uses: actions/download-artifact@v4
         with:
           name: github-pages
           path: ./public
+
+      - name: Verify Artifact Content
+        run: |
+          if [ -d "./public" ]; then
+            echo "Downloaded artifact successfully!"
+            ls -l ./public
+          else
+            echo "Error: No artifact was found in ./public!"
+            exit 1
+          fi
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
