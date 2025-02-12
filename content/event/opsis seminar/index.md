@@ -12,7 +12,7 @@ address:
   postcode: 'OX1 3QY'
   country: United Kingdom
 
-summary: H2Global meets Africa - Exploring potentials and measures for an equitable market ramp-up in Africa
+summary: Oxford climate research network seminar - Talk about the potential role of hydrogen in a 100% renewable energy scenario
 abstract: 'The global energy transition is in full swing, but is a 100% renewable energy system truly feasible and cost-effective? This talk explores the latest insights from energy system modeling, shedding light on the economic viability of fully renewable scenarios. Beyond technical feasibility, we dive into the socio-economic dimensions: How can hydrogen projects contribute to local value creation, even without export orientation? Can large-scale energy infrastructures support a Just Transition that benefits local communities? To address these questions, we integrate desalination and hydrogen underground storage into the open-source model PyPSA-Earth, refining sectoral representation and assessing real-world applicability. Join us as we navigate the intersection of energy system optimization and social justice—where technology meets transformation.'
 
 # Talk start and end times.
