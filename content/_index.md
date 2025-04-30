@@ -60,10 +60,10 @@ sections:
         - Master/Bachelor: Technical, economic and regulatory design of potential concrete value chains of African countries with the EU
 
         ### Ongoing Thesis Projects
-        - Master: Scaling up PV Production for domestic use, OTH, 2024
-        - Master: Green Hydrogen on the African Continent – Financial demand of large-scale projects, OTH, 2024
+        - Master: Green Hydrogen on the African Continent – Financial demand of large-scale projects, OTH, 2025
         
         ### Past Thesis Projects
+        - Master: Scaling up PV Production for domestic use, OTH, 2025
         - Bachelor: Charting the Path: Assessing the Potential Opportunities and Pitfalls of Green Hydrogen Production and Export in Africa - An Energy Justice Assessment of the Hyphen Hydrogen Energy Project in Namibia, OTH, 2024
         - Bachelor: The Impact of Green Hydrogen on Employment in South Africa’s Path to a Just Transition. A case study on the South African Hydrogen Valley, OTH, 2024
         - Bachelor: Sustainable Steel Production in the Desert: Economic and Technical Assessment of a Hydrogen-Powered Plant in Mauritania, OTH, 2024
