@@ -50,6 +50,7 @@ sections:
       text: |-
         | Class | Institution | Term |
         | ----- | ----------- | ---- |
+        | [Energy system modeling](https://www.oth-regensburg.de/studieren/zusatzangebot-detailansicht/modellieren-nachhaltiger-energiesysteme-teilnahmebescheinigung) | OTH Regensburg | SoSe25 |
         | [Energy system modeling](https://www.oth-regensburg.de/studieren/zusatzangebot-detailansicht/modellieren-nachhaltiger-energiesysteme-teilnahmebescheinigung) | OTH Regensburg | WiSe24/25 |
         | [Energy system modeling](https://elearning.oth-regensburg.de/course/view.php?id=5641) | OTH Regensburg | SoSe24 |
 
