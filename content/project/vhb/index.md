@@ -1,6 +1,7 @@
 ---
 title: VHB course "Modeling sustainable energy systems with PyPSA"
-summary: "Modeling Sustainable Energy Systems - Making the Energy Transition Tangible" is a digital course concipated within the Virtual University of Bavaria (vhb) platform from September 2025 - February 2026. Using the open-source modeling framework PyPSA, students gain both theoretical foundations and hands-on experience in designing, simulating, and analyzing energy systems. The course enables participants to create their own "energy transition scenario" and critically assess pathways toward decarbonization at national and international levels. Combining coding, scientific research, and applied case studies, it empowers learners to understand complex system interactions and develop innovative solutions for the energy transition. The course will be available from the summer semester 2026.euros.
+summary: |
+  "Modeling Sustainable Energy Systems - Making the Energy Transition Tangible" is a digital course concipated within the Virtual University of Bavaria (vhb) platform from September 2025 - February 2026. Using the open-source modeling framework PyPSA, students gain both theoretical foundations and hands-on experience in designing, simulating, and analyzing energy systems. The course enables participants to create their own "energy transition scenario" and critically assess pathways toward decarbonization at national and international levels. Combining coding, scientific research, and applied case studies, it empowers learners to understand complex system interactions and develop innovative solutions for the energy transition. The course will be available from the summer semester 2026.
 tags:
   - Open Source
   - Energy system modelling
