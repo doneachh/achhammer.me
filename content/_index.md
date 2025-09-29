@@ -50,6 +50,7 @@ sections:
       text: |-
         | Class | Institution | Term |
         | ----- | ----------- | ---- |
+        | [Energy system modeling](https://www.oth-regensburg.de/studieren/zusatzangebot-detailansicht/modellieren-nachhaltiger-energiesysteme-teilnahmebescheinigung) | OTH Regensburg | WiSe25/26 |
         | [Energy system modeling](https://www.oth-regensburg.de/studieren/zusatzangebot-detailansicht/modellieren-nachhaltiger-energiesysteme-teilnahmebescheinigung) | OTH Regensburg | SoSe25 |
         | [Energy system modeling](https://www.oth-regensburg.de/studieren/zusatzangebot-detailansicht/modellieren-nachhaltiger-energiesysteme-teilnahmebescheinigung) | OTH Regensburg | WiSe24/25 |
         | [Energy system modeling](https://elearning.oth-regensburg.de/course/view.php?id=5641) | OTH Regensburg | SoSe24 |
@@ -61,9 +62,10 @@ sections:
         - Master/Bachelor: Technical, economic and regulatory design of potential concrete value chains of African countries with the EU
 
         ### Ongoing Thesis Projects
-        - Master: Green Hydrogen on the African Continent – Financial demand of large-scale projects, OTH, 2025
+        
         
         ### Past Thesis Projects
+        - Master: Green Hydrogen on the African Continent – Financial demand of large-scale projects, OTH, 2025
         - Master: Scaling up PV Production for domestic use, OTH, 2025
         - Bachelor: Charting the Path: Assessing the Potential Opportunities and Pitfalls of Green Hydrogen Production and Export in Africa - An Energy Justice Assessment of the Hyphen Hydrogen Energy Project in Namibia, OTH, 2024
         - Bachelor: The Impact of Green Hydrogen on Employment in South Africa’s Path to a Just Transition. A case study on the South African Hydrogen Valley, OTH, 2024
