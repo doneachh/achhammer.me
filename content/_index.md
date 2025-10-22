@@ -56,13 +56,13 @@ sections:
         | [Energy system modeling](https://elearning.oth-regensburg.de/course/view.php?id=5641) | OTH Regensburg | SoSe24 |
 
         ### Open Thesis Projects
-        - Master/Bachelor: Modellierung des „Green Corridor Egypt“ – Optimale Auslegung von Energie- und Wasserstoffinfrastruktur in Ägypten
-        - Master/Bachelor: Dekarbonisierung der Harnstoffproduktion (Urea) – Potenziale von grünem Wasserstoff in der Düngemittelindustrie
-        - Master/Bachelor: Offgrid-Integration in PyPSA-Earth – eine Fallstudie für dezentrale Energiesysteme
-        - Master/Bachelor: Integration von Wasserkraft in PyPSA-Earth – eine Fallstudie am Beispiel Äthiopien
-        - Master/Bachelor: Erweiterung von Geothermiepotentialen in PyPSA-Earth – eine Fallstudie am Beispiel Japan
-        - Master/Bachelor: Globale Analyse der Stromgestehungskosten und Synergien und Konflikte zwischen Bitcoin-Mining und Wasserstoffproduktion
-        - Master/Bachelor: Energiesystemmodellierung und Dekarbonisierung eines landwirtschaftlichen Betriebs – Wege zur klimaneutralen Landwirtschaft der Zukunft
+         - Master/Bachelor: Modeling the “Green Corridor Egypt” – Optimal design of energy and hydrogen infrastructure in Egypt
+         - Master/Bachelor: Decarbonization of urea production – Potential of green hydrogen in the fertilizer industry
+         - Master/Bachelor: Off-grid integration in PyPSA-Earth – a case study for decentralized energy systems
+         - Master/Bachelor: Integration of hydropower in PyPSA-Earth – a case study for Ethiopia
+         - Master/Bachelor: Expansion of geothermal potential in PyPSA-Earth – a case study using Japan as an example
+         - Master/Bachelor: Global analysis of electricity generation costs and synergies and conflicts between Bitcoin mining and hydrogen production
+         - Master/Bachelor: Energy system modeling and decarbonization of an agricultural business – paths to climate-neutral agriculture of the future
 
         ### Ongoing Thesis Projects
         
