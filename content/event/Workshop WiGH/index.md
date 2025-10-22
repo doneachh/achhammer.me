@@ -1,7 +1,7 @@
 ---
 title: PyPSA Workshop for Women in Green Hydrogen at GIZ Kenya
 event: PyPSA Workshop 
-event_url: 
+event_url: ""
 
 location: GIZ in Kenya
 address:
