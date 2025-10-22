@@ -1,7 +1,7 @@
 ---
 title: PyPSA Workshop for Women in Green Hydrogen at GIZ Kenya
 event: PyPSA Workshop 
-event_url: ""
+event_url: 
 
 location: GIZ in Kenya
 address:
@@ -12,7 +12,7 @@ address:
   country: Kenya
 
 summary: PyPSA Workshop for Women in Green Hydrogen at GIZ in Kenya - From Data to Decarbonization
-abstract: 'The workshop From Data to Decarbonization: Energy System Modelling with PyPSA-Earth provides a hands-on introduction to the open-source modelling platform PyPSA-Earth, designed for analyzing and planning national-scale energy systems. In a two days interactive session, participants will learn how to build and run energy system models and apply their knowledge in a case study on Kenya's energy transition. The case study explores how carbon budgets, demand patterns, and technology choices shape pathways toward net zero. Aimed at advanced bachelor and master students as well as early-career researchers, the workshop combines methodological training with pressing questions of international hydrogen and energy system research. Organized by the Institute for Energy Networks and Energy Storage (FENES) at OTH Regensburg within the project H2Global meets Africa, the event emphasizes open, fair, and sustainable partnerships between Europe and Africa in the emerging hydrogen economy.'
+abstract: 'The workshop From Data to Decarbonization: Energy System Modelling with PyPSA-Earth provides a hands-on introduction to the open-source modelling platform PyPSA-Earth, designed for analyzing and planning national-scale energy systems. In a two days interactive session, participants will learn how to build and run energy system models and apply their knowledge in a case study on Kenya’s energy transition. The case study explores how carbon budgets, demand patterns, and technology choices shape pathways toward net zero. Aimed at advanced bachelor and master students as well as early-career researchers, the workshop combines methodological training with pressing questions of international hydrogen and energy system research. Organized by the Institute for Energy Networks and Energy Storage (FENES) at OTH Regensburg within the project H2Global meets Africa, the event emphasizes open, fair, and sustainable partnerships between Europe and Africa in the emerging hydrogen economy.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
