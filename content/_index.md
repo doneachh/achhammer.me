@@ -56,10 +56,13 @@ sections:
         | [Energy system modeling](https://elearning.oth-regensburg.de/course/view.php?id=5641) | OTH Regensburg | SoSe24 |
 
         ### Open Thesis Projects
-        - Master/Bachelor: Analysis and development of concrete financing options for hydrogen projects in countries with both high potential and high risk
-        - Master/Bachelor: Development and financing of specific hydrogen supply chains in the Wake of German-African Hydrogen Partnerships
-        - Master/Bachelor: Analysis and prerequisites for establishing sustainable hydrogen partnerships between Germany and African countries
-        - Master/Bachelor: Technical, economic and regulatory design of potential concrete value chains of African countries with the EU
+        - Master/Bachelor: Modellierung des „Green Corridor Egypt“ – Optimale Auslegung von Energie- und Wasserstoffinfrastruktur in Ägypten
+        - Master/Bachelor: Dekarbonisierung der Harnstoffproduktion (Urea) – Potenziale von grünem Wasserstoff in der Düngemittelindustrie
+        - Master/Bachelor: Offgrid-Integration in PyPSA-Earth – eine Fallstudie für dezentrale Energiesysteme
+        - Master/Bachelor: Integration von Wasserkraft in PyPSA-Earth – eine Fallstudie am Beispiel Äthiopien
+        - Master/Bachelor: Erweiterung von Geothermiepotentialen in PyPSA-Earth – eine Fallstudie am Beispiel Japan
+        - Master/Bachelor: Globale Analyse der Stromgestehungskosten und Synergien und Konflikte zwischen Bitcoin-Mining und Wasserstoffproduktion
+        - Master/Bachelor: Energiesystemmodellierung und Dekarbonisierung eines landwirtschaftlichen Betriebs – Wege zur klimaneutralen Landwirtschaft der Zukunft
 
         ### Ongoing Thesis Projects
         
