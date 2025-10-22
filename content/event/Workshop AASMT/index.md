@@ -30,7 +30,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Generated using PyPSA Earth**](https://github.com/pypsa-meets-earth/pypsa-earth)'
+  caption: ''
   focal_point: smart
 
 links:
