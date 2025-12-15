@@ -1,6 +1,6 @@
 ---
-title: PyPSA Meets Earth Lab - Training workshop
-event: PyPSA Meets Earth Lab - Training workshop
+title: PyPSA Meets Earth Lab - Conference
+event: PyPSA Meets Earth Lab - Conference
 event_url: https://www.eventbrite.com/e/pypsa-meets-earth-lab-tickets-1621780702739
 
 location: Online
@@ -11,11 +11,11 @@ address:
   postcode: 
   country: 
 
-summary: PyPSA Meets Earth Lab – Collaborative Online Workshop on Open-Source Energy System Modelling
+summary: PyPSA Meets Earth Lab Conference - Presenting my work on hydrogen underground storage in PyPSA-Earth
 abstract: 'The PyPSA Meets Earth Lab is an interactive online event bringing together the global PyPSA community to collaboratively advance open-source energy system modelling. Participants will work hands-on with the PyPSA framework, contribute to improving datasets, workflows, and documentation, and exchange ideas for future development. The event combines hackathon-style sessions, community discussions, and technical tutorials, aiming to strengthen collaboration across research institutions and practitioners working on open, transparent, and reproducible energy system analysis. Organized by the PyPSA community, the event highlights the role of open science for global decarbonization pathways and sustainable energy transitions.'
 
-date: '2025-11-26T09:00:00Z'
-date_end: '2025-11-26T15:00:00Z'
+date: '2025-11-27T09:00:00Z'
+date_end: '2025-11-27T15:00:00Z'
 all_day: false
 
 publishDate: '2025-07-08T00:00:00Z'
@@ -26,7 +26,7 @@ tags: ['PyPSA', 'Open Source', 'Energy System Modelling', 'Decarbonization', 'Co
 featured: false
 
 image:
-  caption: ''
+  caption: 'Based on Orris et al (2010), Potash: a global overview of evaporate-related potash resources, including spatial databases of deposits, occurrences, and permissive tracts'
   focal_point: smart
 
 links:
