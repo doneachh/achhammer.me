@@ -58,10 +58,10 @@ sections:
         ### Open Thesis Projects
          - Master/Bachelor: Modeling the “Green Corridor Egypt” – Optimal design of energy and hydrogen infrastructure in Egypt
          - Master/Bachelor: Decarbonization of urea production – Potential of green hydrogen in the fertilizer industry
-         - Master/Bachelor: Integration of hydropower in PyPSA-Earth – a case study for Ethiopia
          - Master/Bachelor: Modeling Capillary Electrolysis in PyPSA-Earth: Can Green Hydrogen Compete with Grey?
          - Master/Bachelor: Brine Osmosis in Desalination: Can Innovative Approaches Reduce Energy Consumption?
          - Master/Bachelor: Integration of biomass potential and carbondioxid sources in PyPSA-Earth – a case study on the spatial assessment of sustainable bioenergy
+         - Master/Bachelor: Rethinking Urban Transportation: Evaluating the TSB transrapid maglev as a new chance for a “Stadtbahn” in Regensburg
          - Master/Bachelor: Developing an Interactive Streamlit App for Automated Energy Cost Assessment Across Sectors
          - Master/Bachelor: From (technology) Data to Deck: Automated Generation of Energy Technology Quartet Cards
          - Master/Bachelor: Energy system modeling and decarbonization of an agricultural business – paths to climate-neutral agriculture of the future
@@ -71,7 +71,7 @@ sections:
         - Bachelor: Off-grid integration in PyPSA-Earth – a case study for decentralized energy systems
         - Bachelor: Expansion of geothermal potential in PyPSA-Earth – a case study using Japan as an example
         - Bachelor: Global analysis of electricity generation costs and synergies and conflicts between Bitcoin mining and hydrogen production
-        
+        - Bachelor: Integration of hydropower in PyPSA-Earth – a case study for Ethiopia
         
         ### Past Thesis Projects
         - Master: Green Hydrogen on the African Continent – Financial demand of large-scale projects, OTH, 2025
