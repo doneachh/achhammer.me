@@ -105,6 +105,9 @@ social:
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0009-0001-5553-0469
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Anton-Achhammer
   - icon: github
     icon_pack: fab
     link: https://github.com/doneachh
