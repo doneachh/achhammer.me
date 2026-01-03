@@ -62,6 +62,7 @@ sections:
          - Master/Bachelor: Brine Osmosis in Desalination: Can Innovative Approaches Reduce Energy Consumption?
          - Master/Bachelor: Integration of biomass potential and carbondioxid sources in PyPSA-Earth – a case study on the spatial assessment of sustainable bioenergy
          - Master/Bachelor: Integration of carbon storage in salt caverns in PyPSA-Earth
+         - Master/Bachelor: Integration of an Electrolyzer Matching Tool into the PyPSA-Earth Energy System Model
          - Master/Bachelor: Why Solar and Wind Outcompete Nuclear Power: Insights from a Global Open-Source Energy System Model PyPSA-Earth / Integration of Nuclear Power as extendable in PyPSA-Earth
          - Master/Bachelor: Energy system modeling and decarbonization of an agricultural business – paths to climate-neutral agriculture of the future
          - Master/Bachelor: Advancing Campus Sustainability: An Analysis of the OTH Climate Protection Strategy
