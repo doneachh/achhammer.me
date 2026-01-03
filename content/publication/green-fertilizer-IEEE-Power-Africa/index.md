@@ -6,8 +6,8 @@ title: 'Harvesting Sustainability: Cost-competitiveness of Green Fertilizer Valu
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Marco Schamel
-  - Leon Schumm
   - admin
+  - Leon Schumm
   - Michael Sterner
 
 # Author notes (optional)
