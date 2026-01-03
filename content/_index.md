@@ -237,8 +237,8 @@ sections:
           - publication
         featured_only: true
     design:
-      columns: '4'
-      view: card
+      columns: '2'
+      view: list
   # - block: collection
   #   content:
   #     title: Recent Publications
