@@ -108,6 +108,9 @@ social:
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Anton-Achhammer
+  - icon: google-scholar
+    icon_pack: fab
+    link: https://scholar.google.com/citations?user=mDdOXt4AAAAJ&hl
   - icon: github
     icon_pack: fab
     link: https://github.com/doneachh
