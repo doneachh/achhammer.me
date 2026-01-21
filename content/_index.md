@@ -50,7 +50,7 @@ sections:
       text: |-
         | Class | Institution | Term |
         | ----- | ----------- | ---- |
-        | [Energy system modeling](https://www.oth-regensburg.de/studieren/zusatzangebot-detailansicht/modellieren-nachhaltiger-energiesysteme-teilnahmebescheinigung) | OTH Regensburg | WiSe25/26 - today |
+        | [Energy system modeling](https://www.oth-regensburg.de/studieren/zusatzangebot-detailansicht/modellieren-nachhaltiger-energiesysteme-teilnahmebescheinigung) | OTH Regensburg | WiSe24/25 - today |
         | [Project term paper in Renewable Energy Technology and Energy Efficiency ](https://elearning.oth-regensburg.de/course/view.php?id=5641) | OTH Regensburg | SoSe24 |
 
         ### Open Thesis Projects
