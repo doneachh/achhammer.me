@@ -50,14 +50,11 @@ sections:
       text: |-
         | Class | Institution | Term |
         | ----- | ----------- | ---- |
-        | [Energy system modeling](https://www.oth-regensburg.de/studieren/zusatzangebot-detailansicht/modellieren-nachhaltiger-energiesysteme-teilnahmebescheinigung) | OTH Regensburg | WiSe25/26 |
-        | [Energy system modeling](https://www.oth-regensburg.de/studieren/zusatzangebot-detailansicht/modellieren-nachhaltiger-energiesysteme-teilnahmebescheinigung) | OTH Regensburg | SoSe25 |
-        | [Energy system modeling](https://www.oth-regensburg.de/studieren/zusatzangebot-detailansicht/modellieren-nachhaltiger-energiesysteme-teilnahmebescheinigung) | OTH Regensburg | WiSe24/25 |
-        | [Energy system modeling](https://elearning.oth-regensburg.de/course/view.php?id=5641) | OTH Regensburg | SoSe24 |
+        | [Energy system modeling](https://www.oth-regensburg.de/studieren/zusatzangebot-detailansicht/modellieren-nachhaltiger-energiesysteme-teilnahmebescheinigung) | OTH Regensburg | WiSe25/26 - today |
+        | [Project term paper in Renewable Energy Technology and Energy Efficiency ](https://elearning.oth-regensburg.de/course/view.php?id=5641) | OTH Regensburg | SoSe24 |
 
         ### Open Thesis Projects
-         - Master/Bachelor: Modeling the “Green Corridor Egypt” – Optimal design of energy and hydrogen infrastructure in Egypt
-         - Master/Bachelor: Decarbonization of urea production – Potential of green hydrogen in the fertilizer industry
+         - Master/Bachelor: Decarbonization of urea production – Integration of green fertilizer in PyPSA-Earth
          - Master/Bachelor: Modeling Capillary Electrolysis in PyPSA-Earth: Can Green Hydrogen Compete with Grey?
          - Master/Bachelor: Brine Osmosis in Desalination: Can Innovative Approaches Reduce Energy Consumption?
          - Master/Bachelor: Integration of biomass potential and carbondioxid sources in PyPSA-Earth – a case study on the spatial assessment of sustainable bioenergy
@@ -71,10 +68,13 @@ sections:
          - Master/Bachelor: From (technology) Data to Deck: Automated Generation of Energy Technology Quartet Cards
 
         ### Ongoing Thesis Projects
+        - Master: Modeling the “Green Corridor Egypt” – Optimal design of energy and hydrogen infrastructure in Egypt
         - Bachelor: Off-grid integration in PyPSA-Earth – a case study for decentralized energy systems
         - Bachelor: Expansion of geothermal potential in PyPSA-Earth – a case study using Japan as an example
         - Bachelor: Global analysis of electricity generation costs and synergies and conflicts between Bitcoin mining and hydrogen production
         - Bachelor: Integration of hydropower in PyPSA-Earth – a case study for Ethiopia
+        - Bachelor: Post–Feed-in Tariff Strategies for Photovoltaic Systems
+        - Bachelor: Techno-Economic Comparison of Electric, Hydrogen, Biofuel and E-Fuel Drives in Agriculture
         
         ### Past Thesis Projects
         - Master: Green Hydrogen on the African Continent – Financial demand of large-scale projects, OTH, 2025
