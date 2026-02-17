@@ -54,17 +54,17 @@ sections:
         | [Project term paper in Renewable Energy Technology and Energy Efficiency ](https://elearning.oth-regensburg.de/course/view.php?id=5641) | OTH Regensburg | SoSe24 |
 
         ### Open Thesis Projects
-         - Master/Bachelor: Decarbonization of urea production – Integration of green fertilizer in PyPSA-Earth
-         - Master/Bachelor: Modeling Capillary Electrolysis in PyPSA-Earth: Can Green Hydrogen Compete with Grey?
-         - Master/Bachelor: Brine Osmosis in Desalination: Can Innovative Approaches Reduce Energy Consumption?
+         - Master/Bachelor: Decarbonization of urea production – Integration of green fertilizer pathways in PyPSA-Earth
+         - Master/Bachelor: Modeling Capillary Electrolysis in PyPSA-Earth: Can Green Hydrogen compete with Grey?
+         - Master/Bachelor: Brine Osmosis in Desalination: Can innovative approaches reduce energy consumption?
          - Master/Bachelor: Integration of biomass potential and carbondioxid sources in PyPSA-Earth – a case study on the spatial assessment of sustainable bioenergy
-         - Master/Bachelor: Integration of carbon storage in salt caverns in PyPSA-Earth
+         - Master/Bachelor: Integration of carbon storage in salt caverns, depleted gas fields and aquifers in PyPSA-Earth
          - Master/Bachelor: Integration of an Electrolyzer Matching Tool into the PyPSA-Earth Energy System Model
-         - Master/Bachelor: Why Solar and Wind Outcompete Nuclear Power: Insights from a Global Open-Source Energy System Model PyPSA-Earth / Integration of Nuclear Power as extendable in PyPSA-Earth
+         - Master/Bachelor: Why Solar and Wind outcompete Nuclear Power: Insights from a Global Open-Source Energy System Model PyPSA-Earth / Integration of Nuclear Power as extendable in PyPSA-Earth
          - Master/Bachelor: Energy system modeling and decarbonization of an agricultural business – paths to climate-neutral agriculture of the future
          - Master/Bachelor: Advancing Campus Sustainability: An Analysis of the OTH Climate Protection Strategy
          - Master/Bachelor: Rethinking Urban Transportation: Evaluating the TSB transrapid maglev as a new chance for a “Stadtbahn” in Regensburg
-         - Master/Bachelor: Developing an Interactive Streamlit App for Automated Energy Cost Assessment Across Sectors
+         - Master/Bachelor: Developing an Interactive Streamlit App for automated energy cost assessment across sectors
          - Master/Bachelor: From (technology) Data to Deck: Automated Generation of Energy Technology Quartet Cards
 
         ### Ongoing Thesis Projects
