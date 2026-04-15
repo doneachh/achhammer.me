@@ -61,7 +61,7 @@ sections:
          - Integration of carbon storage in salt caverns, depleted gas fields and aquifers in PyPSA-Earth
          - Integration of an Electrolyzer Matching Tool into the PyPSA-Earth Energy System Model
          - Why Solar and Wind outcompete Nuclear Power: Insights from a Global Open-Source Energy System Model PyPSA-Earth / Integration of Nuclear Power as extendable in PyPSA-Earth
-         - Integration of Hydrogen Import Pathways into PyPSA-Earth for Global Energy System Modeling
+         - Enhancing PyPSA-Earth with predective transmission lines using AI and night traffic lights
          - Automated Retrieval and Integration of WACC Values in PyPSA-Earth for Energy System Modeling
          - Energy system modeling and decarbonization of an agricultural business – paths to climate-neutral agriculture of the future
          - Advancing Campus Sustainability: An Analysis of the OTH Climate Protection Strategy
