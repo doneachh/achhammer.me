@@ -56,6 +56,7 @@ sections:
         ### Open Thesis Projects
          - Decarbonization of urea production – Integration of green fertilizer pathways in PyPSA-Earth
          - Modeling Capillary Electrolysis in PyPSA-Earth: Can Green Hydrogen compete with Grey?
+         - Can hydrogen paste become a cost-effective alternative to conventional hydrogen transport and storage pathways - Integration of hydrogen paste in PyPSA-Earth
          - Brine Osmosis in Desalination: Can innovative approaches reduce energy consumption?
          - Integration of biomass potential and carbondioxid sources in PyPSA-Earth – a case study on the spatial assessment of sustainable bioenergy
          - Integration of carbon storage in salt caverns, depleted gas fields and aquifers in PyPSA-Earth
