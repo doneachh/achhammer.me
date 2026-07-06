@@ -1,7 +1,6 @@
 ---
 title: H2Map-Educate
 summary: Africa is rapidly emerging as a central player in the global production of green hydrogen. Nevertheless, pioneer countries like Namibia and South Africa face significant structural hurdles - there is a lack of comprehensive digital infrastructure mapping and in-depth analyses of socio-ecological risks.
-
 The transdisciplinary project H2Map-Educate addresses these challenges directly by linking technological innovation with comprehensive academic and vocational capacity building. Methodologically, the project builds on the experience gained from the German Hydrogen Atlas (Wasserstoffatlas Deutschland) coordinated at FENES and adapts these approaches to the African context.
 tags:
   - Green hydrogen
