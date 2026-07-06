@@ -1,10 +1,6 @@
 ---
 title: HySEE - Hydrogen for Southeast Europe
-summary: The project strengthens the foundations for a renewable hydrogen market in Bulgaria and Romania through analysis, mapping and stakeholder engagement. It identifies suitable areas for hydrogen production by mapping renewable energy potential, production capacity and current and future hydrogen demand. Regulatory frameworks and funding opportunities are analysed to reveal barriers to market development.
-
-Based on these findings, the project develops targeted policy recommendations that support clearer legislation, streamlined permitting and effective support schemes. Cross-border knowledge exchange with stakeholders from Greece, Hungary and Slovakia fosters regional cooperation and alignment. Workshops and dialogue formats promote acceptance of renewable hydrogen and connect public authorities, businesses, researchers and civil society.
-
-By translating data into open-access tools and practical guidance, the project reduces investment risks, supports evidence-based decision-making and enables coordinated development of renewable hydrogen infrastructure in Southeast Europe.
+summary: The project strengthens the foundations for a renewable hydrogen market in Bulgaria and Romania through analysis, mapping and stakeholder engagement. It identifies suitable areas for hydrogen production by mapping renewable energy potential, production capacity and current and future hydrogen demand. Regulatory frameworks and funding opportunities are analysed to reveal barriers to market development. Based on these findings, the project develops targeted policy recommendations that support clearer legislation, streamlined permitting and effective support schemes. Cross-border knowledge exchange with stakeholders from Greece, Hungary and Slovakia fosters regional cooperation and alignment. Workshops and dialogue formats promote acceptance of renewable hydrogen and connect public authorities, businesses, researchers and civil society. By translating data into open-access tools and practical guidance, the project reduces investment risks, supports evidence-based decision-making and enables coordinated development of renewable hydrogen infrastructure in Southeast Europe.
 tags:
   - Green hydrogen
   - Energy system modelling
