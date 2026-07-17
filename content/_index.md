@@ -60,6 +60,8 @@ sections:
          - Integration of carbon storage in salt caverns, depleted gas fields and aquifers in PyPSA-Earth
          - Why Solar and Wind outcompete Nuclear Power: Insights from a Global Open-Source Energy System Model PyPSA-Earth / Integration of Nuclear Power as extendable in PyPSA-Earth
          - Automated Retrieval and Integration of WACC Values in PyPSA-Earth for Energy System Modeling
+         - Climate-Resilient Energy System Planning: Coupling of PyPSA-Earth with Climate Projections and Integrated Damage Models
+         - Modelling the Water-Energy-Food Nexus: Coupling PyPSA-Earth with Land-Use and Agriculture Models for Sustainable Energy Planning
          - Energy system modeling and decarbonization of an agricultural business – paths to climate-neutral agriculture of the future
          - Advancing Campus Sustainability: An Analysis of the OTH Climate Protection Strategy
          - Rethinking Urban Transportation: Evaluating the TSB transrapid maglev as a new chance for a “Stadtbahn” in Regensburg
