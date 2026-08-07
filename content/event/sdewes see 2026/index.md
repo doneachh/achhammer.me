@@ -61,6 +61,7 @@ url_video: ''
 #   Otherwise, set `projects = []`.
 projects:
   - H2Global-meets-Africa
+  - H2Map-Educate
 ---
 
 <!-- {{% callout note %}}
