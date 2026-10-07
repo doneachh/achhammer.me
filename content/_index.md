@@ -55,16 +55,19 @@ sections:
 
         ### Open Thesis Projects
          - Decarbonization of urea production – Integration of green fertilizer pathways in PyPSA-Earth
+         - Monitoring the Green Hydrogen Transition in Germany: Design and Implementation of the Hydrogen Charts
+         - Off-grid integration in PyPSA-Earth – a case study for decentralized energy systems
          - Brine Osmosis in Desalination: Can innovative approaches reduce energy consumption?
          - Integration of biomass potential and carbondioxid sources in PyPSA-Earth – a case study on the spatial assessment of sustainable bioenergy
          - Enhancing Sectoral Demand Modeling and Scenario Flexibility in PyPSA-Earth
          - Enhancing Fossil Fuel Representation in PyPSA-Earth for Energy Security Analysis
-         - Integration of carbon storage in salt caverns, depleted gas fields and aquifers in PyPSA-Earth
+         - Integration of carbon storage in salt caverns, depleted gas fields and aquifers + carbon removal in PyPSA-Earth
          - Why Solar and Wind outcompete Nuclear Power: Insights from a Global Open-Source Energy System Model PyPSA-Earth / Integration of Nuclear Power as extendable in PyPSA-Earth
          - Automated Retrieval and Integration of WACC Values in PyPSA-Earth for Energy System Modeling
          - Climate-Resilient Energy System Planning: Coupling of PyPSA-Earth with Climate Projections and Integrated Damage Models
          - Modelling the Water-Energy-Food Nexus: Coupling PyPSA-Earth with Land-Use and Agriculture Models for Sustainable Energy Planning
          - Energy system modeling and decarbonization of an agricultural business – paths to climate-neutral agriculture of the future
+         - From Power-to-X to Power-to-Jobs: An Economic Assessment of Employment Effects Driven by the Scaling of Green Hydrogen Technologies.
          - Advancing Campus Sustainability: An Analysis of the OTH Climate Protection Strategy
          - Rethinking Urban Transportation: Evaluating the TSB transrapid maglev as a new chance for a “Stadtbahn” in Regensburg
          - Developing an Interactive Streamlit App for automated energy cost assessment across sectors
@@ -72,17 +75,16 @@ sections:
 
         ### Ongoing Thesis Projects
         - Master: Integration of an Electrolyzer Matching Tool into the PyPSA-Earth Energy System Model
-        - Master: Monitoring the Green Hydrogen Transition in Germany: Design and Implementation of the Hydrogen Charts
-        - Master: Modeling the “Green Corridor Egypt” – Optimal design of energy and hydrogen infrastructure in Egypt
         - MAPR: Modeling Capillary Electrolysis in PyPSA-Earth: Can Green Hydrogen compete with Grey?
         - MAPR: Enhancing PyPSA-Earth with predective transmission lines using AI and night traffic lights
         - MAPR: Integration of hydropower in PyPSA-Earth – a case study for Ethiopia
         - MAPR: Can hydrogen paste become a cost-effective alternative to conventional hydrogen transport and storage pathways - Integration of hydrogen paste in PyPSA-Earth
         - Bachelor: Global analysis of electricity generation costs and synergies and conflicts between Bitcoin mining and hydrogen production
         - Bachelor: Integration of rivers and water networks into PyPSA-Earth
-        - Bachelor: Techno-Economic Comparison of Electric, Hydrogen, Biofuel and E-Fuel Drives in Agriculture
         
         ### Past Thesis Projects
+        - Master: Modeling the “Green Corridor Egypt” – Optimal design of energy and hydrogen infrastructure in Egypt, Uni Pisa, 2026
+        - Bachelor: Techno-Economic Comparison of Electric, Hydrogen, Biofuel and E-Fuel Drives in Agriculture, OTH, 2026
         - Bachelor: Off-grid integration in PyPSA-Earth – a case study for decentralized energy systems, OTH, 2026
         - Bachelor: Post–Feed-in Tariff Strategies for Photovoltaic Systems, OTH, 2026
         - Bachelor: Expansion of geothermal potential in PyPSA-Earth – a case study using Japan as an example, OTH, 2026
