@@ -1,8 +1,8 @@
 ---
-title: 𝗪𝗮𝘀𝘀𝗲𝗿𝘀𝘁𝗼𝗳𝗳𝘂𝗻𝘁𝗲𝗿𝗴𝗿𝘂𝗻𝗱𝘀𝗽𝗲𝗶𝗰𝗵𝗲𝗿 - 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁 𝘃𝗼𝗻 𝗥𝗲𝘀𝗶𝗹𝗶𝗲𝗻𝘇 𝘂𝗻𝗱 𝘀𝘁𝗮𝗯𝗶𝗹𝗲𝗻 𝗘𝘅𝗽𝗼𝗿𝘁𝗸𝗲𝘁𝘁𝗲𝗻
+title: Wasserstoffuntergrundspeicher - Fundament von Resilienz und stabilen Exportketten
 
 event: Wasserstoffrunde - organisiert von Germanwatch e.V. und der Klimaallianz Deutschland
-event_url: https://www.greentech-cluster.de/news-events/detail/h2r-wasserstoff-von-der-produktion-zur-praxis
+event_url: 
 
 location: Wasserstoffrunde Deutschland - Online
 address:
