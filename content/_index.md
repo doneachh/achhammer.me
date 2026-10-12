@@ -59,6 +59,8 @@ sections:
          - Off-grid integration in PyPSA-Earth – a case study for decentralized energy systems
          - Brine Osmosis in Desalination: Can innovative approaches reduce energy consumption?
          - Integration of biomass potential and carbondioxid sources in PyPSA-Earth – a case study on the spatial assessment of sustainable bioenergy
+         - Modeling Capillary Electrolysis in PyPSA-Earth: Can Green Hydrogen compete with Grey?
+         - Can hydrogen paste become a cost-effective alternative to conventional hydrogen transport and storage pathways - Integration of hydrogen paste in PyPSA-Earth
          - Enhancing Sectoral Demand Modeling and Scenario Flexibility in PyPSA-Earth
          - Enhancing Fossil Fuel Representation in PyPSA-Earth for Energy Security Analysis
          - Integration of carbon storage in salt caverns, depleted gas fields and aquifers + carbon removal in PyPSA-Earth
@@ -75,10 +77,8 @@ sections:
 
         ### Ongoing Thesis Projects
         - Master: Integration of an Electrolyzer Matching Tool into the PyPSA-Earth Energy System Model
-        - MAPR: Modeling Capillary Electrolysis in PyPSA-Earth: Can Green Hydrogen compete with Grey?
         - MAPR: Enhancing PyPSA-Earth with predective transmission lines using AI and night traffic lights
         - MAPR: Integration of hydropower in PyPSA-Earth – a case study for Ethiopia
-        - MAPR: Can hydrogen paste become a cost-effective alternative to conventional hydrogen transport and storage pathways - Integration of hydrogen paste in PyPSA-Earth
         - Bachelor: Global analysis of electricity generation costs and synergies and conflicts between Bitcoin mining and hydrogen production
         - Bachelor: Integration of rivers and water networks into PyPSA-Earth
         
